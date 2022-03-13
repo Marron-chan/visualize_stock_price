@@ -1,0 +1,2 @@
+# visualize_stock_price
+株価可視化アプリ用リポジトリ
